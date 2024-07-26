@@ -77,6 +77,6 @@ To use this program effectively, make sure you have:
         Contact information and address
         Payment method
 
-4. Finally, the description is logged to the console using console.log().
+4. The description is logged to the console using console.log().
 
 This code effectively creates a detailed customer profile for a motel guest and generates a formatted description of their stay.
