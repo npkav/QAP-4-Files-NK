@@ -7,6 +7,7 @@
 ## QAP 4 - Project 1 – Python – Functions, Lists, and Data Files
 
 This code is an insurance premium calculator and claim management system.
+    
     1. The program calculates insurance premiums based on user inputs.
     2. It manages customer information and claim details.
     3. It generates receipts and logs for each transaction.
@@ -15,6 +16,7 @@ This code is an insurance premium calculator and claim management system.
 How to use:
 
 The program will display a policy number and prompt you for various inputs:
+    
     1. Personal information (name, birth date, address, etc.)
     2. Number of cars to insure
     3. Additional coverage options
