@@ -1,8 +1,8 @@
-# Nickolas Kavanagh
-# SD 12 QAP 4
-# Project 1 – Python – Functions, Lists, and Data Files
-# Project 3 - Javascript
-# July 15, 2024 - July 26, 2024
+Nickolas Kavanagh
+SD 12 QAP 4
+Project 1 – Python – Functions, Lists, and Data Files
+Project 3 - Javascript
+July 15, 2024 - July 26, 2024
 
 ## QAP 4 - Project 1 – Python – Functions, Lists, and Data Files
 
