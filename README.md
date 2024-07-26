@@ -44,7 +44,8 @@ Key Features:
 To use this program effectively, make sure you have:
     1. A "Const.dat" file in the same directory with the necessary constants (e.g., BASIC_PREMIUM, HST_RATE, etc.)
     2. Proper file read/write permissions in the directory where the program is running
-    This program is designed for insurance agents or customers to quickly calculate premiums, log claims, and manage policy information in an interactive manner.
+    3. This program is designed for insurance agents or customers to quickly calculate premiums, log claims, and
+    manage policy information in an interactive manner.
 
 
 
