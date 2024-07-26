@@ -24,26 +24,31 @@ The program will display a policy number and prompt you for various inputs:
     5. Claim information
 
 After entering all required information, the program will:
+    
     1. Calculate the premium and associated costs
     2. Generate a unique user ID
     3. Log the transaction details to a file named with the user ID
     4. The program will then ask if you want to exit and generate a receipt or continue with another calculation.
 
 If you choose to exit:
+    
     1. A receipt will be generated and displayed
     2. The program will terminate
 
 If you choose to continue:
+    
     1. The policy number will increment
     2. A new calculation cycle will begin
 
 Key Features:
+    
     1. Input validation for various fields (e.g., province, postal code, dates)
     2. Progress bar for file writing operations
     3. Flexible payment options (Full, Monthly, Down Payment)
     4. Claim logging and receipt generation
 
 To use this program effectively, make sure you have:
+    
     1. A "Const.dat" file in the same directory with the necessary constants (e.g., BASIC_PREMIUM, HST_RATE, etc.)
     2. Proper file read/write permissions in the directory where the program is running
     3. This program is designed for insurance agents or customers to quickly calculate premiums, log claims, and
